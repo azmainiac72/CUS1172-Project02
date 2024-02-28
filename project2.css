@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+
+}
+
+body {
+    background-color: #6B2737;
+    color: #F8F4A6;
+}
+
+li{
+    padding-top:10px;
+
+}
+
+.automargin {
+    text-align: center;
+    margin: auto;
+}
+    
+button {
+    color: #ccc98c;
+    background-color: #002642;
+}
+
+input[type="text"], textarea {
+    color:#F8F4A6;
+    background-color: #002642;
+}
+
+::placeholder {
+    color:hsl(57, 37%, 65%);
+    background-color: #002642;
+    opacity: 1; /* Firefox */
+
+}
+
+#task-priority {
+    color:#F8F4A6;
+    background-color: #002642;
+}
+
+#submit {
+    color:#F8F4A6;
+    background-color: #002642;
+}
